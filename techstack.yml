@@ -1,0 +1,20 @@
+repo_name: Motiblow/musical-octo-computing-machine
+report_id: '088da00d5b512b8aa05e2b3eb5d458a8'
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-05T15:47:53+00:00'
+requested_by: Motiblow
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Motiblow/musical-octo-computing-machine
+  detection_source: Repo Metadata
